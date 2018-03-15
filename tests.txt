@@ -1,0 +1,15 @@
+#pass tests
+
+a dog loves the cat .
+
+the dog chases the lazy cat up a tall tree .
+
+the fast cat eats the sneaky rat and the lazy , furry dog silently hates the cat and the dog chases the fast cat around the house !
+
+# fail tests
+
+a dog barks at the cat .
+
+the fast furry cat eats quickly
+
+the chases up tree .
