@@ -1,19 +1,10 @@
 package cosc455102.program1.cbrilz1;
 
 /**
- * COSC 455 Programming Languages: Implementation and Design.
- *
- * A Simple Lexical Analyzer Adapted from Sebesta (2010) by Josh Dehlinger
- * further modified by Adam Conover (2012-2017)
- *
- * This lexical analyzer simply finds lexemes separated by a single space and
- * places it in the Compiler classes currentToken global String. The lexical
- * analyzer here takes a source line and does a character- by-character analysis
- * to determine lexemes/tokens. Note that this lexical analyzer does not lookup
- * a lexeme to find its "class" to determine its token type, as shown in the
- * book. This lexical analyzer also limits each lexeme/token to 100 characters
- * or less.
+ *COURSE: COSC455.102
+ * Name: Brilz, Chance
  */
+
 public class LexicalAnalyzer {
 
 	private String sourceLine;

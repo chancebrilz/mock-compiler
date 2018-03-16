@@ -1,16 +1,8 @@
 package cosc455102.program1.cbrilz1;
 
 /**
- * COSC 455 Programming Languages: Implementation and Design.
- *
- * A Simple Lexical Analyzer Adapted from Sebesta (2010) by Josh Dehlinger
- * further modified by Adam Conover (2012-2018)
- *
- * This syntax analyzer implements a top-down, left-to-right, recursive-descent
- * parser based on the production rules for the simple English language provided
- * by Weber in Section 2.2. Helper methods to get, set and reset the error flag.
- *
- * @UPDATED: 03/15/2018 by Chance Brilz for COSC 455
+ *COURSE: COSC455.102
+ * Name: Brilz, Chance
  */
 
 public class SyntaxAnalyzer {

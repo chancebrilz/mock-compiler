@@ -1,22 +1,10 @@
 package cosc455102.program1.cbrilz1;
 
 /**
- * COSC 455 Programming Languages: Implementation and Design.
- * <p>
- * A Simple Compiler Adapted from Sebesta (2010) by Josh Dehlinger further modified by Adam Conover
- * (2012-2017)
- * <p>
- * A simple compiler used for the simple English grammar in Section 2.2 of Adam Brooks Weber's
- * "Modern Programming Languages" book. Parts of this code was adapted from Robert Sebesta's
- * "Concepts of Programming Languages".
- * <p>
- * This compiler assumes that the source file containing the sentences to parse is provided as the
- * first runtime argument. Within the source file, the compiler assumes that each sentence to parse
- * is provided on its own line.
- * <p>
- * NOTE: A "real" compiler would more likely treat an entire file as a single stream of input,
- * rather than each line being an independent input stream.
- */
+ *COURSE: COSC455.102
+ * Name: Brilz, Chance
+*/
+
 import static java.lang.System.out;
 
 import java.io.*;

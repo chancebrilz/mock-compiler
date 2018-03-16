@@ -1,18 +1,15 @@
 package cosc455102.program1.cbrilz1;
 
+/**
+ *COURSE: COSC455.102
+ * Name: Brilz, Chance
+ */
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Set;
 import java.util.TreeSet;
 
-/**
- * The Token set as an Enum type. This is just "binds" each token to its list of
- * valid lexemes.
- *
- * @author Adam J. Conover
- *
- * @UPDATED: 03/15/2018 by Chance Brilz for COSC 455
- */
 public enum TOKEN {
 
 	ARTICLE("a", "the"), // a list of articles
